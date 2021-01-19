@@ -1,0 +1,120 @@
+.frutas img{
+	border-radius: 100px;
+	height: 180px;
+	width: 180px;
+	display: inline-block;
+	margin-right: 35px;
+	border: 2px solid white;
+}
+
+.frutas li{
+	display: inline-block;
+}
+
+
+
+.final {
+	height: 150px;
+	width: 100%;
+	border: 2px solid black;
+	margin-top: 180px;
+	text-align: center;
+}
+
+
+.numeros li h3{
+  display: inline-block;
+}
+
+#oscuro:hover {
+  cursor: pointer;
+}
+
+
+
+
+
+body {
+	font-family: cursive;
+	outline: none;
+}
+
+#Search {
+	border-radius: 50px;
+	outline: none;
+}
+
+.busca a{
+	text-decoration: none;
+	font-size: 20px;
+	color: black;
+}
+
+.busca ul li{
+	list-style: none;
+}
+
+#mapa1 {
+	border: 2px solid black;
+}
+
+#mapa2 {
+	border: 2px solid black
+}
+
+#p{
+   text-decoration: none;
+   color: black;
+}
+
+#w{
+   text-decoration: none;
+   color: black;
+}
+
+#p:hover {
+	text-decoration: underline;
+}
+
+#w:hover {
+	text-decoration: underline;
+}
+
+#Search {
+	height: 28px;
+	width: 200px;
+	font-size: 20px;
+}
+
+#final li{
+   list-style: none;
+   display: inline-block;
+}
+
+#-_- {
+	text-decoration: none;
+	color: black;
+}
+
+#-_-:hover {
+	text-decoration: underline;
+}
+
+#frutitas li{
+	display: block;
+	width: 50%;
+	border: 1px solid black;
+	margin-top: 5px;
+}
+
+#frutitas li:hover {
+	border: 2px solid blue;
+}
+
+#logo {
+	border-radius: 100%;
+	border: 2px solid white;
+	height: 150px;
+
+}
+
